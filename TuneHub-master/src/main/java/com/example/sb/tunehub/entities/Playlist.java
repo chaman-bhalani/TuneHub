@@ -59,6 +59,5 @@ public class Playlist {
 		return "Playlist [id=" + id + ", name=" + name + ", song=" + song + "]";
 	}
 	
-	
-	
+		
 }
